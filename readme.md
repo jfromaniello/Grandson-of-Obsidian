@@ -8,15 +8,15 @@ It is inspired by the Visual Studio theme [Son of Obsidian](http://studiostyl.es
 I am unsing it mainly for html and javascript, feel free to enhance and send me the changes.
 
 
-How to install in Sublime Text 2?
-=================================
+## Installation 
 
-Copy the ".tmTheme" file to: 
-	
-	%appdata%\Sublime Text 2\Packages\Color Scheme - Default
+Download the file or install with [Package Decontrol](https://github.com/jfromaniello/Sublime-Package-Decontrol):
 
-How to install in TextMate?
-===========================
+~~~
+jfromaniello/sublime-node-require
+~~~
+
+## How to install in TextMate?
 
 I don't know but it might be something like:
 
