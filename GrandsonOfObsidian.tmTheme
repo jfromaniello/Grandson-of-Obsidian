@@ -151,11 +151,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DF5F5F</string>
+				<string>#963a46</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -168,7 +168,7 @@
 				<key>background</key>
 				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -179,11 +179,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B798BF</string>
+				<string>#a082bd</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 	</array>
