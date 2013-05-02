@@ -67,9 +67,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Regular Expression</string>
+			<string>Regular Expression, Links</string>
 			<key>scope</key>
-			<string>string.regexp</string>
+			<string>string.regexp, meta.link</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
