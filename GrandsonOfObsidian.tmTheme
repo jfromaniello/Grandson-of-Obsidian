@@ -78,9 +78,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
+			<string>Number, Constant, Function Argument, Tag Attribute, Embedded, Escaped Characters</string>
 			<key>scope</key>
-			<string>constant.numeric, support.constant, punctuation.section.embedded, keyword.other.unit</string>
+			<string>constant.numeric, support.constant, punctuation.section.embedded, keyword.other.unit, constant.character.escape</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
