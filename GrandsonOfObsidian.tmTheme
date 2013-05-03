@@ -56,9 +56,9 @@
 		</dict>
  		<dict>
 			<key>name</key>
-			<string>Variable, String Link, Tag Name</string>
+			<string>Variable, String Link, Tag Name, FileName</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link, entity.name.tag</string>
+			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.name.filename.find-in-files</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -106,7 +106,7 @@
 			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, constant.character, entity.other.inherited-class, markup.heading</string>
+			<string>string, constant.other.symbol, constant.character, entity.other.inherited-class, markup.heading, constant.numeric.line-number.match.find-in-files</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
