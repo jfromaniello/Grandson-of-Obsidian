@@ -56,20 +56,31 @@
 		</dict>
  		<dict>
 			<key>name</key>
-			<string>Variable, String Link, Regular Expression, Tag Name</string>
+			<string>Variable, String Link, Tag Name, FileName</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag</string>
+			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.name.filename.find-in-files</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#93C763</string>
 			</dict>
-		</dict> 
+		</dict>
 		<dict>
 			<key>name</key>
-			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
+			<string>Regular Expression, Links</string>
 			<key>scope</key>
-			<string>constant.numeric, support.constant, punctuation.section.embedded, keyword.other.unit</string>
+			<string>string.regexp, meta.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#81A2BE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number, Constant, Function Argument, Tag Attribute, Embedded, Escaped Characters</string>
+			<key>scope</key>
+			<string>constant.numeric, support.constant, punctuation.section.embedded, keyword.other.unit, constant.character.escape</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -95,7 +106,7 @@
 			<key>name</key>
 			<string>String, Symbols, Inherited Class, Markup Heading</string>
 			<key>scope</key>
-			<string>string, constant.other.symbol, constant.character, entity.other.inherited-class, markup.heading</string>
+			<string>string, constant.other.symbol, constant.character, entity.other.inherited-class, markup.heading, constant.numeric.line-number.match.find-in-files</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -104,12 +115,6 @@
 				<string>#EC7600</string>
 			</dict>
 		</dict>
-<!--
-		i know i should use this color for something but i don't know what yet... :) 
-				<key>foreground</key>
-				<string>#81A2BE</string>
--->
-
 		<dict>
 			<key>name</key>
 			<string>variable</string>
@@ -146,11 +151,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#DF5F5F</string>
+				<string>#963a46</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -163,7 +168,7 @@
 				<key>background</key>
 				<string>#82A3BF</string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -174,11 +179,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#B798BF</string>
+				<string>#a082bd</string>
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#CED2CF</string>
+				<string>#ffffff</string>
 			</dict>
 		</dict>
 	</array>
