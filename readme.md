@@ -7,6 +7,8 @@ It is inspired by the Visual Studio theme [Son of Obsidian](http://studiostyl.es
 
 I am using it mainly for html and javascript, feel free to enhance and send me the changes.
 
+![Grandson of Obsidian](screenshot.png)
+
 
 ## Installation 
 
