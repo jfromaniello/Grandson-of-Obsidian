@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This is a tmTheme for [textmate](http://macromates.com/) which also works on [Sublime Text 2](http://www.sublimetext.com/2).
+This is a tmTheme for [textmate](http://macromates.com/) which also works on [Sublime Text 2] (http://www.sublimetext.com/2) and [Sublime Text 3] (http://www.sublimetext.com/3).
 
 It is inspired by the Visual Studio theme [Son of Obsidian](http://studiostyl.es/schemes/son-of-obsidian) which also is inspired by Eclipse [Obsidian](http://www.eclipsecolorthemes.org/?view=theme&id=21).
 
