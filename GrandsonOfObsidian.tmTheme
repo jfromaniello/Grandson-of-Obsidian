@@ -4,9 +4,9 @@
 <dict>
 	<key>comment</key>
 	<string>
-		Inspired on Son of Obsidian: http://studiostyl.es/schemes/son-of-obsidian 
+		Inspired on Son of Obsidian: http://studiostyl.es/schemes/son-of-obsidian
 		which is inspired in Obsidian http://www.eclipsecolorthemes.org/?view=theme&amp;id=21
-		
+
 		I created this from another theme "Tomorrow Night" http://chriskempson.com
 	</string>
 	<key>name</key>
@@ -28,6 +28,20 @@
 				<string>#42464C</string>
 				<key>selection</key>
 				<string>#4F6164</string>
+
+				<key>bracketsForeground</key>
+				<string>#AEAFAD</string>
+
+				<key>bracketContentsForeground</key>
+				<string>#ffffff</string>
+
+				<key>guide</key>
+				<string>#42464C</string>
+				<key>activeGuide</key>
+				<string>#678CB1</string>
+				<key>stackGuide</key>
+				<string>#42464C</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -128,7 +142,7 @@
 				<string>#678CB1</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Keyword</string>
@@ -142,7 +156,7 @@
 				<string>#93C763</string>
 			</dict>
 		</dict>
-		
+
 		<dict>
 			<key>name</key>
 			<string>Invalid</string>
@@ -287,7 +301,7 @@
 				<string>#66747B</string>
 			</dict>
 		</dict>
-		
+
 	</array>
 	<key>uuid</key>
 	<string>F96223EB-1AAB-4617-92F3-FA4D4F13DB09</string>
